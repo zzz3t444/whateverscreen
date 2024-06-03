@@ -6,7 +6,7 @@ class Page extends CI_Controller {
 	public function index()
 	{
 		$data['meta'] = [
-			'title' => 'sebelah_layar',
+			'title' => 'Whatever Screen',
 		];
 		$this->load->view('home', $data);
 	}

@@ -24,7 +24,7 @@
                     <button class="border px-7 py-2 text-neutral-200 rounded-full text-sm archivo hover:scale-95 duration-300 border-neutral-200">Login</button>
                 </a>
             </div>
-            <p data-aos="zoom-in" data-aos-duration="3000" class="text-center text-sky-600 mt-10 text-sm font-normal">telah di percaya banyak orang</p>
+            <p data-aos="zoom-in" data-aos-duration="3000" class="text-center text-red-600 mt-10 text-sm font-normal">telah di percaya banyak orang</p>
         </div>
     </div>
 
