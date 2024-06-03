@@ -63,7 +63,7 @@
         <div class="items-center flex justify-center mt-20 gap-10">
             <ul class="grid">
                 <h1 class="text-5xl text-neutral-200 font-semibold dm-sans">My Team Project</h1>
-                <p class="archivo text-neutral-300 max-w-sm mt-8 leading-9">This is the project team that participated in the Sebelah Layar website project. </p>
+                <p class="archivo text-neutral-300 max-w-sm mt-8 leading-9">This is the project team that participated in the Whatever Screen website project. </p>
             </ul>
             <ul class="flex items-center">
                 <img class="rounded-full mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717424454/xqpbdsioxf4jvgb3anvm.jpg" width="400px" alt="">
