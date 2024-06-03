@@ -25,7 +25,7 @@
 			<form action="" method="post">
 				<div class="mb-4">
 					<label for="name" class="block text-gray-200">Email/Username*</label>
-					<input autocomplete="off" type="text" name="username" class="border border-gray-300 p-2 w-full rounded <?= form_error('username') ? 'border-red-500' : '' ?>"
+					<input autocomplete="off" type="text" name="username" class="border border-gray-600 bg-transparent placeholder:text-sm p-2 w-full rounded <?= form_error('username') ? 'border-red-500' : '' ?>"
 						placeholder="Your username or email" value="<?= set_value('username') ?>" required />
 					<div class="text-red-500 text-sm mt-1">
 						<?= form_error('username') ?>
@@ -33,7 +33,7 @@
 				</div>
 				<div class="mb-6">
 					<label for="password" class="block text-gray-200">Password*</label>
-					<input autocomplete="off" type="password" name="password" class="border border-gray-300 p-2 w-full rounded <?= form_error('password') ? 'border-red-500' : '' ?>"
+					<input autocomplete="off" type="password" name="password" class="border border-gray-600 bg-transparent placeholder:text-sm p-2 w-full rounded <?= form_error('password') ? 'border-red-500' : '' ?>"
 						placeholder="Enter your password" value="<?= set_value('password') ?>" required />
 					<div class="text-red-500 text-sm mt-1">
 						<?= form_error('password') ?>
