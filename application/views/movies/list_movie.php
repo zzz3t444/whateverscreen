@@ -27,7 +27,7 @@
                         <p class="text-gray-300 mb-4 archivo">
                             <?= $movie->deskripsi ?>
                         </p>
-                        <a href="<?= site_url('movie/show/' . $movie->slug) ?>" class="text-sky-600 archivo hover:underline">
+                        <a href="<?= site_url('movie/show/' . $movie->slug) ?>" class="text-red-600 archivo hover:underline">
                             Read More
                         </a>
                     </div>
