@@ -14,11 +14,11 @@
     <div class="relative h-[900px] border-b border-neutral-600 bg-cover p-20" style="background-image: url('https://wallpapercave.com/wp/wp11089675.jpg');">
         <div class="absolute inset-0 bg-black opacity-70"></div>
         <div class="relative mt-32 z-10">
-            <h1 data-aos="zoom-in" data-aos-duration="900" class="text-8xl dm-sans text-neutral-200 text-center tracking-tight font-bold max-w-2xl mx-auto">Welcome to Sebelah <span class="text-sky-600">Layar</span></h1>
-            <p data-aos="zoom-in" data-aos-duration="2000" class="text-center max-w-4xl mx-auto text-lg mt-3 archivo text-neutral-200">Next to the screen is a website that reveals a movie that has been released and aired in this world, even we collect a lot of information about movie synopsis, to information on how many viewers like a movie.</p>
+            <h1 data-aos="zoom-in" data-aos-duration="900" class="text-8xl dm-sans text-neutral-200 text-center tracking-tight font-bold max-w-3xl mx-auto">Welcome to Whatever <span class="text-red-600">Screen</span></h1>
+            <p data-aos="zoom-in" data-aos-duration="2000" class="text-center max-w-4xl mx-auto text-lg mt-3 archivo text-neutral-200">Whatever Screen is a website that reveals movies that have been released and shown in this world, even we collect a lot of information about movie synopsis, to information on how many viewers like a movie.</p>
             <div class="flex items-center justify-center mt-5 gap-2">
                 <a data-aos="zoom-in" data-aos-duration="2400" class="flex justify-center" href="">
-                    <button class="px-5 py-2 text-neutral-200 archivo text-sm rounded-full hover:scale-95 duration-300 hover:bg-sky-700 bg-sky-600">read More</button>
+                    <button class="px-5 py-2 text-neutral-200 archivo text-sm rounded-full hover:scale-95 duration-300 hover:bg-red-700 bg-red-600">read More</button>
                 </a>
                 <a data-aos="zoom-in" data-aos-duration="3000" href="<?= site_url('auth/login') ?>">
                     <button class="border px-7 py-2 text-neutral-200 rounded-full text-sm archivo hover:scale-95 duration-300 border-neutral-200">Login</button>
@@ -50,11 +50,11 @@
     </section>
 
     <section title="people-create-project">
-        <div class="flex items-center justify-center mt-10 gap-16 p-14 pt-0">
-            <div><img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1716995476/r2eubcpjtbmlhjv0g4bp.png" width="500px" alt=""></div>
+        <div class="flex items-center justify-center mt-20 gap-16 p-14 pt-0">
+            <div><img class="rounded-full" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412010/q0zalc23qw3w3o6kpxga.jpg" width="600px" alt=""></div>
             <div>
-                <h1 class="text-5xl text-neutral-200 font-semibold dm-sans">Hi, im <span class="text-sky-600">Ronald Alexander</span></h1>
-                <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">Hello! I'm Ronald Alexander, the creator of Sebelah Layar, a website dedicated to film synopses. My passion for cinema and storytelling inspired me to build a platform where movie enthusiasts can discover and explore the essence of films. Sebelah Layar is designed to provide concise and engaging summaries that capture the heart of each movie, making it easier for viewers to decide what to watch next.</p>
+                <h1 class="text-5xl text-neutral-200 font-semibold dm-sans">Hi, im <span class="text-red-600">Afkar Mitsal</span></h1>
+                <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">Halo! Saya Afkar Mitsal, pencipta Whatever Screen, sebuah situs web yang didedikasikan untuk sinopsis film. Kecintaan saya pada sinema dan cerita menginspirasi saya untuk membangun sebuah platform di mana para penggemar film dapat menemukan dan mengeksplorasi esensi film. Whatever Screen dirancang untuk memberikan ringkasan ringkas dan menarik yang menangkap inti dari setiap film, sehingga memudahkan pemirsa untuk memutuskan apa yang akan ditonton selanjutnya.</p>
             </div>
         </div>
     </section>
@@ -66,8 +66,8 @@
                 <p class="archivo text-neutral-300 max-w-sm mt-8 leading-9">This is the project team that participated in the Sebelah Layar website project. </p>
             </ul>
             <ul class="flex items-center">
-                <img class="rounded-full mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717395696/mbgxw2vfriwkw4q24wjv.jpg" width="400px" alt="">
-                <img class="rounded-full -ml-52 -mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717395696/mbgxw2vfriwkw4q24wjv.jpg" width="400px" alt="">
+                <img class="rounded-full mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717424454/xqpbdsioxf4jvgb3anvm.jpg" width="400px" alt="">
+                <img class="rounded-full -ml-52 -mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430277/xnpobgfcbhae5gv7lmpo.jpg" width="400px" alt="">
             </ul>
         </div>
     </section>
@@ -77,16 +77,16 @@
     <section title="support-people-programmer">
         <div class="flex items-center justify-center p-20 pt-0 mt-32 bg-neutral-950 gap-20">
             <div class="flex items-center">
-                <div class="flex items-center">
+                <div class="flex items-center relative">
                     <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717141387/cqqazwvbpvfxrrnkjbrd.png" class="border bg-black  rounded-full relative border-neutral-800" width="300px" alt="">
-                    <img src="https://avatars.githubusercontent.com/u/100127440?v=4" class="border rounded-full -ml-40 mt-56 border-neutral-800" width="300px" alt="">
+                    <img src="https://avatars.githubusercontent.com/u/100127440?v=4" class="border rounded-full bg-black -ml-40 mt-56 border-neutral-800" width="300px" alt="">
                 </div>
-                <img src="https://avatars.githubusercontent.com/u/113794999?v=4" class="border -z rounded-full -ml-40 mt-[490px] border-neutral-800" width="300px" alt="">
+                <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412245/btzsw4xo7te7yygzsnnk.jpg" class="border -z rounded-full -ml-40 mt-[470px] border-neutral-800" width="300px" alt="">
             </div>
             <div>
                 <h1 class="text-neutral-200 dm-sans font-semibold text-5xl mt-28 text-start leading-tight">participants Contributions to <br>
                     this website</h1>
-                <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">This website was created with good collaboration in terms of website layout design to database needs. we invited <span class="text-sky-600 hover:text-purple-500 duration-100"><a href="https://github.com/z3t444" target="_blank">@z3t444</a></span> to provide inspiration for website design, we invited <span class="text-sky-600 hover:text-purple-500 duration-100"><a href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a></span> to determine data relations on this website, and we invited <span class="text-sky-600 hover:text-purple-500 duration-100"><a href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a></span> for consultation on the problems of making this website. we are very grateful to these contributors.</p>
+                <p class="text-neutral-200 max-w-2xl archivo leading-9 mt-5">This website is made with good collaboration in terms of website layout design to database needs. Design Slicing Website has been made by <a class="text-red-500" href="https://github.com/z3t444" target="_blank">@z3t444</a> to provide inspiration for website design, we invite <a class="text-red-500" href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a> to determine data relations on this website, and we invite <a  class="text-red-500"href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a> to consult problems in making this website. we invite <a class="text-red-500" href="https://github.com/Asdox272" target="_blank">@Asdox272</a> to participate in database connections and website display interfaces. very grateful to these contributors.</p>
             </div>
         </div>
     </section>
@@ -98,7 +98,7 @@
                 <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">This website is officially open and can be used by anyone. we provide many features for describing or providing movie synopsis.</p>
             </div>
             <div>
-                <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717055317/vu0hfd4m07jn8uhw6j9t.png" width="700px" alt="">
+                <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430510/screenpicture_og5lyk.png" width="700px" alt="">
             </div>
         </div>
     </section>
@@ -125,7 +125,7 @@
                                     <div id="word-count" class="word-count">0/40 words</div>
                                 </div>
                                 <div class="flex justify-center">
-                                    <button type="submit" class="bg-sky-600 hover:bg-sky-700 hover:scale-95 duration-300 archivo text-white px-10 p-2 rounded-full">
+                                    <button type="submit" class="bg-red-600 hover:bg-red-700 hover:scale-95 duration-300 archivo text-white px-10 p-2 rounded-full">
                                         Kirim
                                     </button>
                                 </div>

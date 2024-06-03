@@ -9,7 +9,7 @@
 <body>
 	<aside class="side-nav fixed">
 		<div class="brand mt-4">
-			<h2 class="dm-sans text-2xl font-semibold">Sebelah Layar</h2>
+			<h2 class="dm-sans text-xl font-semibold">Whatever Screen</h2>
 			<div style="display: flex; align-items: center; gap:10px;">
 				<?php
 				$avatar = $current_user->avatar ?

@@ -41,7 +41,7 @@
 				</div>
 
 				<div class="text-center">
-					<input type="submit" class="bg-sky-600 text-white p-2 rounded w-full cursor-pointer hover:bg-sky-700" value="Login">
+					<input type="submit" class="bg-red-600 text-white p-2 rounded w-full cursor-pointer hover:bg-red-700" value="Login">
 				</div>
 			</form>
 		</div>

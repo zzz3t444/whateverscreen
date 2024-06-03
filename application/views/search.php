@@ -17,7 +17,7 @@
         </div>
         <form action="" method="get" class="grid items-center mb-6 mx-auto max-w-3xl">
             <input type="search" name="keyword" class=" p-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Keyword.." value="<?= html_escape($keyword) ?>" required maxlength="32" />
-            <input type="submit" class="mt-4 bg-blue-500 text-white py-2 px-4 rounded-md shadow-md hover:bg-blue-600" value="Cari">
+            <input type="submit" class="mt-4 bg-red-500 text-white py-2 px-4 rounded-md shadow-md hover:bg-red-600" value="Cari">
         </form>
 
         <?php if ($search_result) : ?>
