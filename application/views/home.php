@@ -17,7 +17,7 @@
             <h1 data-aos="zoom-in" data-aos-duration="900" class="text-8xl dm-sans text-neutral-200 text-center tracking-tight font-bold max-w-3xl mx-auto">Welcome to Whatever <span class="text-red-600">Screen</span></h1>
             <p data-aos="zoom-in" data-aos-duration="2000" class="text-center max-w-4xl mx-auto text-lg mt-3 archivo text-neutral-200">Whatever Screen is a website that reveals movies that have been released and shown in this world, even we collect a lot of information about movie synopsis, to information on how many viewers like a movie.</p>
             <div class="flex items-center justify-center mt-5 gap-2">
-                <a data-aos="zoom-in" data-aos-duration="2400" class="flex justify-center" href="">
+                <a data-aos="zoom-in" data-aos-duration="2400" class="flex justify-center" href="#thank-saying">
                     <button class="px-5 py-2 text-neutral-200 archivo text-sm rounded-full hover:scale-95 duration-300 hover:bg-red-700 bg-red-600">read More</button>
                 </a>
                 <a data-aos="zoom-in" data-aos-duration="3000" href="<?= site_url('auth/login') ?>">
@@ -37,7 +37,7 @@
         </div>
     </div>
 
-    <section>
+    <section id="thank-saying">
         <div class="flex items-center mt-32 bg-neutral-950 p-20 justify-center gap-20">
             <div>
                 <h1 class="text-5xl font-semibold dm-sans text-start text-neutral-200 leading-tight">Thanks for <br>
