@@ -25,7 +25,7 @@
 
         <!-- for About Content -->
         <div class="mt-20">
-            <h1 class="text-4xl font-bold text-center text-neutral-200 dm-sans tracking-tight">Who is Sebelah Layar?</h1>
+            <h1 class="text-4xl font-bold text-center text-neutral-200 dm-sans tracking-tight">Who is Whatever Screen?</h1>
             <ul class="flex items-start justify-center mt-8 gap-5">
                 <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Whatever <span class="text-red-600">Screen</span> didirikan oleh sekelompok pecinta film yang bersemangat dan berpengalaman di dunia perfilman. Kami percaya bahwa setiap film memiliki cerita unik di balik layar yang patut untuk diungkapkan. Tim kami terdiri dari <span class="text-red-600">penulis, kritikus, dan sineas</span> yang berkomitmen untuk memberikan perspektif baru dan mendalam tentang berbagai genre film, baik dari dalam negeri maupun internasional.</p>
                 <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Misi kami adalah menghubungkan penonton dengan kekayaan dunia film melalui konten berkualitas <span class="text-red-600">tinggi</span> dan <span class="text-red-600">informatif</span>. Kami ingin menjadi jembatan antara pembuat film dan penonton, membawa wawasan yang belum pernah Anda lihat sebelumnya dan <span class="text-red-600">membantu</span> Anda <span class="text-red-600">menemukan</span> film yang sesuai dengan selera Anda.</p>

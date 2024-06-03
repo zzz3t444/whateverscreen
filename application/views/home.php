@@ -11,7 +11,7 @@
 <?php $this->load->view('_partials/navbar.php'); ?>
 
 <body class="bg-black">
-    <div class="relative h-[900px] border-b border-neutral-600 bg-cover p-20" style="background-image: url('https://wallpapercave.com/wp/wp11089675.jpg');">
+    <div class="relative h-[900px] bg-cover p-20" style="background-image: url('https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717432921/film_c06hmr.jpg');">
         <div class="absolute inset-0 bg-black opacity-70"></div>
         <div class="relative mt-32 z-10">
             <h1 data-aos="zoom-in" data-aos-duration="900" class="text-8xl dm-sans text-neutral-200 text-center tracking-tight font-bold max-w-3xl mx-auto">Welcome to Whatever <span class="text-red-600">Screen</span></h1>
@@ -86,7 +86,7 @@
             <div>
                 <h1 class="text-neutral-200 dm-sans font-semibold text-5xl mt-28 text-start leading-tight">participants Contributions to <br>
                     this website</h1>
-                <p class="text-neutral-200 max-w-2xl archivo leading-9 mt-5">This website is made with good collaboration in terms of website layout design to database needs. Design Slicing Website has been made by <a class="text-red-500" href="https://github.com/z3t444" target="_blank">@z3t444</a> to provide inspiration for website design, we invite <a class="text-red-500" href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a> to determine data relations on this website, and we invite <a  class="text-red-500"href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a> to consult problems in making this website. we invite <a class="text-red-500" href="https://github.com/Asdox272" target="_blank">@Asdox272</a> to participate in database connections and website display interfaces. very grateful to these contributors.</p>
+                <p class="text-neutral-200 max-w-2xl archivo leading-9 mt-5">This website is made with good collaboration in terms of website layout design to database needs. Design Slicing Website has been made by <a class="text-red-500" href="https://github.com/z3t444" target="_blank">@z3t444</a> to provide inspiration for website design, we invite <a class="text-red-500" href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a> to determine data relations on this website, and we invite <a class="text-red-500" href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a> to consult problems in making this website. we invite <a class="text-red-500" href="https://github.com/Asdox272" target="_blank">@Asdox272</a> to participate in database connections and website display interfaces. very grateful to these contributors.</p>
             </div>
         </div>
     </section>
