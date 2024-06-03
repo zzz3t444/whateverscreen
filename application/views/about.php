@@ -12,7 +12,7 @@
     <div class="container mx-auto py-16 px-4">
         <div class="text-center text-neutral-200 tracking-tighter font-bold text-9xl dm-sans">
             <h1 class="text-red-600">About.</h1>
-            <h1 class="-mt-3">whatever.</h1>
+            <h1 class="-mt-3">Whatever.</h1>
             <h1 class="-mt-3">Screen.</h1>
         </div>
         <div>

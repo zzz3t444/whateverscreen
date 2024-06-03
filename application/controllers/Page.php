@@ -13,11 +13,13 @@ class Page extends CI_Controller {
 	public function about()
 	{
 		$data['meta'] = [
-			'title' => 'About BeritaCoding',
+			'title' => 'About WhateverSreen',
 		];
 
 		$this->load->view('about', $data);
 	}
+
+
 	public function contact()
 	{
 		$data['meta'] = [

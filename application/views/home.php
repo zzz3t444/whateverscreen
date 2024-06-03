@@ -54,7 +54,7 @@
             <div><img class="rounded-full" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412010/q0zalc23qw3w3o6kpxga.jpg" width="600px" alt=""></div>
             <div>
                 <h1 class="text-5xl text-neutral-200 font-semibold dm-sans">Hi, im <span class="text-red-600">Afkar Mitsal</span></h1>
-                <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">Halo! Saya Afkar Mitsal, pencipta Whatever Screen, sebuah situs web yang didedikasikan untuk sinopsis film. Kecintaan saya pada sinema dan cerita menginspirasi saya untuk membangun sebuah platform di mana para penggemar film dapat menemukan dan mengeksplorasi esensi film. Whatever Screen dirancang untuk memberikan ringkasan ringkas dan menarik yang menangkap inti dari setiap film, sehingga memudahkan pemirsa untuk memutuskan apa yang akan ditonton selanjutnya.</p>
+                <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">Hello! I'm Afkar Mitsal, the creator of Whatever Screen, a website dedicated to movie synopses. My love for cinema and stories inspired me to build a platform where movie buffs can discover and explore the essence of movies. Whatever Screen is designed to provide concise and engaging summaries that capture the essence of each movie, making it easier for viewers to decide what to watch next.</p>
             </div>
         </div>
     </section>
