@@ -30,29 +30,29 @@
 
     <!-- Reviews List -->
     <div>
-        <h1 class="text-neutral-200 dm-sans font-semibold text-3xl mt-28 text-center">Reviews And Comment</h1>
-        <p class="text-neutral-300 mt-4 text-center max-w-lg mx-auto archivo">give opinions. any comments as well as suggestions and criticism, we are very receptive to it for our change</p>
+        <h1 data-aos="fade-up" data-aos-duration="500" class="text-neutral-200 dm-sans font-semibold text-3xl mt-28 text-center">Reviews And Comment</h1>
+        <p data-aos="fade-up" data-aos-duration="800" class="text-neutral-300 mt-4 text-center max-w-lg mx-auto archivo">give opinions. any comments as well as suggestions and criticism, we are very receptive to it for our change</p>
         <div class="flex justify-center">
-            <div id="reviewsList" class="carousel-container-automatic flex gap-12 mt-24 rounded-3xl"></div>
+            <div id="reviewsList" data-aos="zoom-in" data-aos-duration="1000" class="carousel-container-automatic flex gap-12 mt-24 rounded-3xl"></div>
         </div>
     </div>
 
     <section id="thank-saying">
         <div class="flex items-center mt-32 bg-neutral-950 p-20 justify-center gap-20">
-            <div>
+            <div data-aos="fade-down-right" data-aos-duration="800">
                 <h1 class="text-5xl font-semibold dm-sans text-start text-neutral-200 leading-tight">Thanks for <br>
                     <span class="text-3xl">SMK MUHAMMADYAH 1 YOGYAKARTA</span>
                 </h1>
                 <p class="max-w-xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">I am a student of SMK MUHAMMADYAH 1 YOGYAKARTA who majors in Software Engineering. I really like majoring in Software Engineering because the digital world is very broad.</p>
             </div>
-            <div><img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717001528/pf2frcn8tujynmvxqrho.png" width="600px" alt=""></div>
+            <div><img data-aos="flip-left" data-aos-delay="600" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717001528/pf2frcn8tujynmvxqrho.png" width="600px" alt=""></div>
         </div>
     </section>
 
     <section title="people-create-project">
         <div class="flex items-center justify-center mt-20 gap-16 p-14 pt-0">
-            <div><img class="rounded-full" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412010/q0zalc23qw3w3o6kpxga.jpg" width="600px" alt=""></div>
-            <div>
+            <div><img data-aos="flip-right" data-aos-delay="600" class="rounded-full" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412010/q0zalc23qw3w3o6kpxga.jpg" width="600px" alt=""></div>
+            <div data-aos="fade-down-left" data-aos-duration="800">
                 <h1 class="text-5xl text-neutral-200 font-semibold dm-sans">Hi, im <span class="text-red-600">Afkar Mitsal</span></h1>
                 <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">Hello! I'm Afkar Mitsal, the creator of Whatever Screen, a website dedicated to movie synopses. My love for cinema and stories inspired me to build a platform where movie buffs can discover and explore the essence of movies. Whatever Screen is designed to provide concise and engaging summaries that capture the essence of each movie, making it easier for viewers to decide what to watch next.</p>
             </div>
@@ -66,8 +66,8 @@
                 <p class="archivo text-neutral-300 max-w-sm mt-8 leading-9">This is the project team that participated in the Whatever Screen website project. </p>
             </ul>
             <ul class="flex items-center">
-                <img class="rounded-full mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717424454/xqpbdsioxf4jvgb3anvm.jpg" width="400px" alt="">
-                <img class="rounded-full -ml-52 -mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430277/xnpobgfcbhae5gv7lmpo.jpg" width="400px" alt="">
+                <img data-aos="zoom-in" data-aos-delay="550" class="rounded-full mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717424454/xqpbdsioxf4jvgb3anvm.jpg" width="400px" alt="">
+                <img data-aos="zoom-in" data-aos-delay="650" class="rounded-full -ml-52 -mt-40" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430277/xnpobgfcbhae5gv7lmpo.jpg" width="400px" alt="">
             </ul>
         </div>
     </section>
@@ -78,12 +78,12 @@
         <div class="flex items-center justify-center p-20 pt-0 mt-32 bg-neutral-950 gap-20">
             <div class="flex items-center">
                 <div class="flex items-center relative">
-                    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717141387/cqqazwvbpvfxrrnkjbrd.png" class="border bg-black  rounded-full relative border-neutral-800" width="300px" alt="">
-                    <img src="https://avatars.githubusercontent.com/u/100127440?v=4" class="border rounded-full bg-black -ml-40 mt-56 border-neutral-800" width="300px" alt="">
+                    <img data-aos="zoom-in" data-aos-delay="550" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717141387/cqqazwvbpvfxrrnkjbrd.png" class="border bg-black  rounded-full relative border-neutral-800" width="300px" alt="">
+                    <img data-aos="zoom-in" data-aos-delay="650" src="https://avatars.githubusercontent.com/u/100127440?v=4" class="border rounded-full bg-black -ml-40 mt-56 border-neutral-800" width="300px" alt="">
                 </div>
-                <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412245/btzsw4xo7te7yygzsnnk.jpg" class="border -z rounded-full -ml-40 mt-[470px] border-neutral-800" width="300px" alt="">
+                <img data-aos="zoom-in" data-aos-delay="750" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412245/btzsw4xo7te7yygzsnnk.jpg" class="border -z rounded-full -ml-40 mt-[470px] border-neutral-800" width="300px" alt="">
             </div>
-            <div>
+            <div data-aos="zoom-out-left">
                 <h1 class="text-neutral-200 dm-sans font-semibold text-5xl mt-28 text-start leading-tight">participants Contributions to <br>
                     this website</h1>
                 <p class="text-neutral-200 max-w-2xl archivo leading-9 mt-5">This website is made with good collaboration in terms of website layout design to database needs. Design Slicing Website has been made by <a class="text-red-500" href="https://github.com/z3t444" target="_blank">@z3t444</a> to provide inspiration for website design, we invite <a class="text-red-500" href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a> to determine data relations on this website, and we invite <a class="text-red-500" href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a> to consult problems in making this website. we invite <a class="text-red-500" href="https://github.com/Asdox272" target="_blank">@Asdox272</a> to participate in database connections and website display interfaces. very grateful to these contributors.</p>
@@ -93,12 +93,12 @@
 
     <section title="content-for-open-source">
         <div class="flex items-center gap-10 p-32 justify-center mt-12">
-            <div>
+            <div data-aos="zoom-out-right" data-aos-delay="650">
                 <h1 class=" text-5xl text-neutral-200 font-semibold dm-sans">Movie Synopsis website</h1>
                 <p class="max-w-2xl text-neutral-200 text-lg mt-6 archivo text-start leading-10">This website is officially open and can be used by anyone. we provide many features for describing or providing movie synopsis.</p>
             </div>
             <div>
-                <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430510/screenpicture_og5lyk.png" width="700px" alt="">
+                <img data-aos="zoom-out-left" data-aos-delay="750" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717430510/screenpicture_og5lyk.png" width="700px" alt="">
             </div>
         </div>
     </section>
