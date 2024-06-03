@@ -11,3 +11,10 @@
 .monsterrat {
     font-family: "Montserrat", sans-serif;
 }
+
+.border-gradient-red-to-black {
+    border-radius: 20px;
+    height:290px;
+    width: 300px;
+  }
+  
