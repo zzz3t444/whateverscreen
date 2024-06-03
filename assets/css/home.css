@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.dm-sans {
+    font-family: "DM Sans", sans-serif;
+}
+
+.archivo {
+    font-family: "Archivo", sans-serif;
+}
+
+.monsterrat {
+    font-family: "Montserrat", sans-serif;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.carousel-inner {
+    transition: transform 0.5s ease;
+}
+
+.carousel-item {
+    padding: 40px;
+    padding-top: 15px;
+    flex: 0 0 auto;
+    border-radius: 30px;
+}
+
+
+.carousel-container-automatic {
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.carousel-item-automatic {
+    min-width: 300px;
+    flex: 0 0 auto;
+}
