@@ -12,12 +12,12 @@
 
     <div class="container mx-auto p-4">
         <div class="text-center mt-10">
-            <h1 class="text-2xl text-neutral-200 font-bold dm-sans mb-4">Cari Film</h1>
-            <p class="mb-4 text-neutral-300 archivo">Tuliskan kata kunci artikel yang ingin kamu cari</p>
+            <h1 class="text-2xl text-neutral-200 font-bold dm-sans mb-4">Search Movie</h1>
+            <p class="mb-4 text-neutral-300 archivo">Write down the keywords of the movie you want to search</p>
         </div>
         <form action="" method="get" class="grid items-center mb-6 mx-auto max-w-3xl">
             <input type="search" name="keyword" class=" p-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Keyword.." value="<?= html_escape($keyword) ?>" required maxlength="32" />
-            <input type="submit" class="mt-4 bg-red-500 text-white py-2 px-4 rounded-md shadow-md hover:bg-red-600" value="Cari">
+            <input type="submit" class="mt-4 bg-red-500 text-white py-2 px-4 rounded-md shadow-md hover:bg-red-600" value="Search">
         </form>
 
         <?php if ($search_result) : ?>
@@ -35,8 +35,8 @@
         <?php else : ?>
             <?php if ($keyword) : ?>
                 <div class="h-64 flex flex-col justify-center items-center text-center">
-                    <h1 class="text-3xl text-red-500 font-bold mb-2">Tidak ada yang ditemukan</h1>
-                    <p class="text-gray-300">Coba dengan kata kunci yang lain</p>
+                    <h1 class="text-3xl text-red-500 font-bold mb-2">Not Found</h1>
+                    <p class="text-gray-300">Try with other keywords</p>
                 </div>
             <?php endif ?>
         <?php endif ?>

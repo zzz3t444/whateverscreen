@@ -20,16 +20,16 @@
             <ul class="flex items-center gap-5 justify-center mt-10">
                 <button class="w-60 py-2 hover:scale-95 duration-300 bg-red-600 rounded-lg hover:bg-red-700 text-neutral-200 archivo text-sm">Read More</button>
             </ul>
-            <p class="text-neutral-400 text-center max-w-3xl mx-auto mt-8 archivo leading-7">Selamat datang di Whatever Screen, destinasi utama Anda untuk menikmati dunia film dari sudut pandang yang berbeda! Kami adalah platform yang didedikasikan untuk menyediakan ulasan film</p>
-            <p class="uppercase font-light text-center text-neutral-400 tracking-wider mt-20">rise 26 May 2024</p>
+            <p class="text-neutral-400 text-center max-w-3xl mx-auto mt-8 archivo leading-7">Welcome to Whatever Screen, your ultimate destination to enjoy the world of movies from a different perspective! We are a platform dedicated to providing movie reviews</p>
+            <p class="uppercase font-light text-center text-neutral-400 tracking-wider mt-20">Rise 26 May 2024</p>
         </div>
 
         <!-- for About Content -->
         <div class="mt-20">
-            <h1 class="text-4xl font-bold text-center text-neutral-200 dm-sans tracking-tight">Who is Whatever <span class="text-red-500">Screen?</span></h1>
+            <h1 class="text-4xl font-bold text-center text-neutral-200 dm-sans tracking-tight">What is Whatever <span class="text-red-500">Screen?</span></h1>
             <ul class="flex items-start justify-center mt-8 gap-5">
-                <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Whatever <span class="text-red-600">Screen</span> didirikan oleh sekelompok pecinta film yang bersemangat dan berpengalaman di dunia perfilman. Kami percaya bahwa setiap film memiliki cerita unik di balik layar yang patut untuk diungkapkan. Tim kami terdiri dari <span class="text-red-600">penulis, kritikus, dan sineas</span> yang berkomitmen untuk memberikan perspektif baru dan mendalam tentang berbagai genre film, baik dari dalam negeri maupun internasional.</p>
-                <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Misi kami adalah menghubungkan penonton dengan kekayaan dunia film melalui konten berkualitas <span class="text-red-600">tinggi</span> dan <span class="text-red-600">informatif</span>. Kami ingin menjadi jembatan antara pembuat film dan penonton, membawa wawasan yang belum pernah Anda lihat sebelumnya dan <span class="text-red-600">membantu</span> Anda <span class="text-red-600">menemukan</span> film yang sesuai dengan selera Anda.</p>
+                <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Whatever <span class="text-red-600">Screen</span> was founded by a group of passionate and experienced movie lovers in the world of cinema. We believe that every movie has a unique behind-the-scenes story that deserves to be revealed. Our team consists of <span class="text-red-600">Writer, Critic, and Filmmaker</span> which is committed to providing new and in-depth perspectives on various genres of films, both domestically and internationally..</p>
+                <p class="max-w-xl text-neutral-400 text-sm archivo leading-6">Our mission is to connect audiences with the rich world of movies through quality content. <span class="text-red-600">High</span> and <span class="text-red-600">informative</span>. We want to be the bridge between filmmakers and audiences, bringing insights you've never seen before and <span class="text-red-600">Helping</span> You <span class="text-red-600">Find</span> Movies that suit your taste.</p>
             </ul>
         </div>
 
@@ -37,16 +37,16 @@
             <img src="https://www.greenscene.co.id/wp-content/uploads/2018/09/film.jpg" class="rounded-3xl" alt="" width="600px" height="500px">
             <div>
                 <ul>
-                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Ulasan Film</h1>
-                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Kami menyediakan ulasan film yang mendalam dan objektif, mengupas setiap aspek mulai dari alur cerita, karakter, sinematografi, hingga pesan moral yang disampaikan.</p>
+                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Movie Review</h1>
+                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">We provide in-depth and objective movie reviews, exploring every aspect from the storyline, characters, cinematography, to the moral message conveyed.</p>
                 </ul>
                 <ul class="mt-5">
-                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Rekomendasi Film</h1>
-                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Temukan film-film terbaik sesuai dengan genre kesukaan Anda. Tim kami siap memberikan rekomendasi yang akan memperkaya pengalaman menonton Anda.</p>
+                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Recommended Movies</h1>
+                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Find the best movies according to your favorite genre. Our team is ready to provide recommendations that will enrich your viewing experience.</p>
                 </ul>
                 <ul class="mt-5">
-                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Berita Terbaru</h1>
-                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Dapatkan update terkini tentang film-film baru, perkembangan di industri perfilman, serta berita eksklusif dari balik layar.</p>
+                    <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Latest News</h1>
+                    <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Get the latest updates on new movies, industry developments, and exclusive news from behind the scenes.</p>
                 </ul>
             </div>
         </div>

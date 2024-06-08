@@ -15,14 +15,13 @@
 					onclick="toggleFaq(1)"
 				>
 					<h2 class="faq-question text-lg dm-sans font-semibold cursor-pointer">
-						1. Apa itu Whatever Screen?
+						1. What is Whatever Screen?
 					</h2>
 					<div id="faq-answer-1" class="faq-answer hidden mt-2">
 						<p class="archivo max-w-sm text-sm text-neutral-300">
-							Whatever Screen adalah sebuah website yang menyediakan ulasan film,
-							serial TV, dan konten multimedia lainnya. Situs ini dirancang
-							dengan menggunakan Tailwind CSS untuk styling dan JavaScript untuk
-							memastikan pengalaman pengguna yang dinamis dan reaktif.
+						 Whatever Screen is a website that provides movie reviews,
+						 TV series, and other multimedia content. 
+						 The website is designed using Tailwind CSS for styling and JavaScript to ensure a dynamic and reactive user experience.
 						</p>
 					</div>
 				</div>
@@ -31,16 +30,13 @@
 					onclick="toggleFaq(2)"
 				>
 					<h2 class="faq-question text-lg dm-sans font-semibold cursor-pointer">
-						2. Bagaimana cara navigasi di situs Whatever Screen?
+						2. How to navigate on the Whatever Screen website?
 					</h2>
 					<div id="faq-answer-2" class="faq-answer hidden mt-2">
 						<p class="archivo max-w-sm text-sm text-neutral-300">
-							Navigasi di Whatever Screen sangat mudah. Kami menggunakan menu
-							navigasi yang responsif di bagian atas halaman, di mana Anda dapat
-							dengan cepat mengakses ulasan terbaru, genre tertentu, dan artikel
-							pilihan. Menu ini dibuat menggunakan Tailwind CSS dan JavaScript
-							untuk memberikan pengalaman pengguna yang lancar di berbagai
-							perangkat.
+						 Navigation on Whatever Screen is very easy. We use a responsive navigation menu at the top of the page,
+						 where you can quickly access the latest reviews, specific genres, and selected articles.
+						 This menu was created using Tailwind CSS and JavaScript to provide a smooth user experience across multiple devices.
 						</p>
 					</div>
 				</div>
@@ -49,15 +45,14 @@
 					onclick="toggleFaq(3)"
 				>
 					<h2 class="faq-question text-lg dm-sans font-semibold cursor-pointer">
-						3. Apakah Whatever Screen mendukung fitur pencarian?
+						3. Does Whatever Screen support search features?
 					</h2>
 					<div id="faq-answer-3" class="faq-answer hidden mt-2">
 						<p class="archivo max-w-sm text-sm text-neutral-300">
-							Ya, Whatever Screen dilengkapi dengan fitur pencarian yang reaktif.
-							Anda dapat mengetikkan judul film atau serial yang Anda cari di
-							kotak pencarian, dan hasilnya akan muncul secara instan berkat
-							penggunaan JavaScript. Fitur ini memanfaatkan Tailwind CSS untuk
-							memastikan tampilan hasil pencarian tetap rapi dan responsif.
+						 Yes, Whatever Screen comes with a reactive search feature.
+						 You can type in the title of the movie or series you're looking for in the search box,
+						 and the results will appear instantly thanks to the 
+						 the use of JavaScript. This feature utilizes Tailwind CSS to ensure the display of search results remains neat and responsive.
 						</p>
 					</div>
 				</div>
@@ -66,16 +61,15 @@
 					onclick="toggleFaq(4)"
 				>
 					<h2 class="faq-question text-lg dm-sans  font-semibold cursor-pointer">
-						4. Bagaimana Whatever Screen menangani ulasan pengguna?
+						4. How Whatever Screen handles user feedback?
 					</h2>
 					<div id="faq-answer-4" class="faq-answer hidden mt-2">
 						<p class="archivo max-w-sm text-sm text-neutral-300">
-							Whatever Screen mengizinkan pengguna untuk memberikan ulasan dan
-							rating untuk setiap konten yang ada di situs. Sistem ini dibangun
-							menggunakan JavaScript untuk menangani input pengguna secara
-							real-time, dan Tailwind CSS untuk memastikan ulasan tampil dengan
-							baik di semua ukuran layar. Ulasan pengguna juga dimoderasi untuk
-							menjaga kualitas dan relevansi.
+						Whatever Screen allows users to leave reviews and ratings for any content on the site. This system is built
+						using JavaScript to handle user input in
+						real-time user input, and Tailwind CSS to ensure reviews display well on all screen sizes.
+						well on all screen sizes. User reviews are also moderated to
+						maintain quality and relevance.
 						</p>
 					</div>
 				</div>
@@ -84,15 +78,13 @@
 					onclick="toggleFaq(5)"
 				>
 					<h2 class="faq-question text-lg dm-sans font-semibold cursor-pointer">
-						5. Apakah Whatever Screen bisa diakses dari perangkat mobile?
+						5. Can Whatever Screen be accessed from mobile devices?
 					</h2>
 					<div id="faq-answer-5" class="faq-answer hidden mt-2">
 						<p class="archivo max-w-sm text-sm text-neutral-300">
-							Tentu saja! Whatever Screen dirancang dengan prinsip mobile-first
-							menggunakan Tailwind CSS, sehingga tampilan dan fungsionalitas
-							situs tetap optimal di berbagai perangkat, termasuk smartphone dan
-							tablet. Penggunaan JavaScript juga memastikan interaksi tetap
-							reaktif dan cepat meskipun diakses dari perangkat mobile.
+						 Of course! Whatever Screen is designed with mobile-first principles using Tailwind CSS,
+						 so that the appearance and functionality of the and functionality of the site remains optimized on various devices, 
+						 including smartphones and tablets. The use of JavaScript also ensures that interactions remain reactive and fast even when accessed from mobile devices.
 						</p>
 					</div>
 				</div>

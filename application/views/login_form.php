@@ -13,7 +13,7 @@
 		<div class="max-w-md mx-auto  border border-neutral-800 shadow-lg rounded-lg p-8">
 			<div class="text-center mb-6">
 				<h1 class="text-3xl text-neutral-200 font-bold mb-2">Login</h1>
-				<p class="text-gray-300">Masuk ke Dashboard</p>
+				<p class="text-gray-300">Login to Dashboard</p>
 			</div>
 
 			<?php if($this->session->flashdata('message_login_error')): ?>

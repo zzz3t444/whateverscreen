@@ -24,14 +24,14 @@
                     <button class="border px-7 py-2 text-neutral-200 rounded-full text-sm archivo hover:scale-95 duration-300 border-neutral-200">Login</button>
                 </a>
             </div>
-            <p data-aos="zoom-in" data-aos-duration="3000" class="text-center text-red-600 mt-10 text-sm font-normal">telah di percaya banyak orang</p>
+            <p data-aos="zoom-in" data-aos-duration="3000" class="text-center text-red-600 mt-10 text-sm font-normal">Trusted by many people</p>
         </div>
     </div>
 
     <!-- Reviews List -->
     <div>
         <h1 data-aos="fade-up" data-aos-duration="500" class="text-neutral-200 dm-sans font-semibold text-3xl mt-28 text-center">Reviews And Comment</h1>
-        <p data-aos="fade-up" data-aos-duration="800" class="text-neutral-300 mt-4 text-center max-w-lg mx-auto archivo">give opinions. any comments as well as suggestions and criticism, we are very receptive to it for our change</p>
+        <p data-aos="fade-up" data-aos-duration="800" class="text-neutral-300 mt-4 text-center max-w-lg mx-auto archivo">Give opinions.any comments as well as suggestions and criticism, we are very receptive to it for our change</p>
         <div class="flex justify-center">
             <div id="reviewsList" data-aos="zoom-in" data-aos-duration="1000" class="carousel-container-automatic flex gap-12 mt-24 rounded-3xl"></div>
         </div>
@@ -84,7 +84,7 @@
                 <img data-aos="zoom-in" data-aos-delay="750" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1717412245/btzsw4xo7te7yygzsnnk.jpg" class="border -z rounded-full -ml-40 mt-[470px] border-neutral-800" width="300px" alt="">
             </div>
             <div data-aos="zoom-out-left">
-                <h1 class="text-neutral-200 dm-sans font-semibold text-5xl mt-28 text-start leading-tight">participants Contributions to <br>
+                <h1 class="text-neutral-200 dm-sans font-semibold text-5xl mt-28 text-start leading-tight">Participants Contributions to <br>
                     this website</h1>
                 <p class="text-neutral-200 max-w-2xl archivo leading-9 mt-5">This website is made with good collaboration in terms of website layout design to database needs. Design Slicing Website has been made by <a class="text-red-500" href="https://github.com/z3t444" target="_blank">@z3t444</a> to provide inspiration for website design, we invite <a class="text-red-500" href="https://github.com/dzakyabdurhmn" target="_blank">@dzakyabdurhmn</a> to determine data relations on this website, and we invite <a class="text-red-500" href="https://github.com/ridhoarrahmann" target="_blank">@ridhoarrahmann</a> to consult problems in making this website. we invite <a class="text-red-500" href="https://github.com/Asdox272" target="_blank">@Asdox272</a> to participate in database connections and website display interfaces. very grateful to these contributors.</p>
             </div>
@@ -116,17 +116,17 @@
                         <div class="w-full max-w-4xl mx-auto xl:mx-0 p-5 glassmorphism rounded-3xl shadow-md">
                             <form id="reviewForm" class="mb-6" autocomplete="off">
                                 <div class="mb-4">
-                                    <label for="name" class="block text-gray-200 dm-sans">Nama:</label>
+                                    <label for="name" class="block text-gray-200 dm-sans">Name:</label>
                                     <input type="text" id="name" class="w-full text-neutral-300 p-3 text-sm rounded-lg mt-2 border-b border-neutral-800 bg-transparent focus:outline-none" autocomplete="off" required placeholder="Your Name" />
                                 </div>
                                 <div class="mb-4">
-                                    <label for="review" class="block text-gray-200 dm-sans">Komentar:</label>
-                                    <input type="text" id="review" class="w-full text-neutral-300 p-2 text-sm h-32 mt-2 border-b border-neutral-800 bg-transparent rounded-2xl focus:outline-none" autocomplete="off" required placeholder="masukan sebanyak 40 kata, saran dan penilaian" />
-                                    <div id="word-count" class="word-count">0/40 words</div>
+                                    <label for="review" class="block text-gray-200 dm-sans">Comments:</label>
+                                    <input type="text" id="review" class="w-full text-neutral-300 p-2 text-sm h-32 mt-2 border-b border-neutral-800 bg-transparent rounded-2xl focus:outline-none" autocomplete="off" required placeholder="40 words of feedback, suggestions and ratings" />
+                                    <div id="word-count" class="word-count">0/40 Words</div>
                                 </div>
                                 <div class="flex justify-center">
                                     <button type="submit" class="bg-red-600 hover:bg-red-700 hover:scale-95 duration-300 archivo text-white px-10 p-2 rounded-full">
-                                        Kirim
+                                        Submit
                                     </button>
                                 </div>
                             </form>
